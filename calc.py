@@ -3,7 +3,7 @@
 from sys import argv
 from math import log
 
-ops = 0x2B2D
+ops = 0x2B2D2F
 
 def func(a, b):
     return '\n'.join(
